@@ -21,3 +21,11 @@ Determine the risk of experience adverse events (mortality)
 ### Develop personalized patient management and treatment plans
 One size fits all treatment plans are developed at population level, not at individualized patient level 
 
+personalized treatment using AI 
+* Models that learn individual-level effects of treatment on the basis of observational data: Gaussian processes, generative adversarial networks and deep neural network 
+	* identify patients groups where some tretment might be effective
+* Need to model patient's health state over time as they respond to different treatments and care 
+	* predict counterfactual health trajectories under different management plans for each individual (counterfactual recurrent network)
+
+### Informing policies and enable effective collaboration 
+
